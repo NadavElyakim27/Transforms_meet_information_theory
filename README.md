@@ -4,3 +4,4 @@ The work can be found in the [notebook](https://github.com/NadavElyakim27/Transf
 
 ## Thanks for visiting
 ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2FNadavElyakim27%2FTransforms_meet_information_theory)
+[![Gitter](https://img.shields.io/badge/chat-on%20gitter-yellow.svg)](https://gitter.im/Microsoft/vscode)
